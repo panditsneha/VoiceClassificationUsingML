@@ -5,10 +5,10 @@ https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 
 ## These are the steps which we follow for data classification.
-1. Loading sound data using librosa library,
-2. Converting sound data into numerical vector spectrograms,
-3. Building deep neural network,
-4. Predicting the label of sound data.
+1. Loading sound data using librosa library
+2. Converting sound data into numerical vector spectrograms
+3. Building deep neural network
+4. Predicting the label of sound data
 
 
 
